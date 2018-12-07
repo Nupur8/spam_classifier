@@ -7,7 +7,7 @@ This project requires **Python 2.7** and the following Python libraries installe
 - [Pandas](http://pandas.pydata.org)
 - [scikit-learn](http://scikit-learn.org/stable/)
 ### Code
-Code for the project is provided in the Spam_ jupyter notebook.
+Code for the project is provided in the spam_classifier jupyter notebook.
 ### Dataset
-Dataset used for this projecr is 'titanic_data.csv' and downloaded from Kaggle.
-Dataset consists of following attributes:
+Dataset used for this projecr is 'spam.csv' and downloaded from Kaggle.
+Dataset consists of body of the email message and a field that has values either spam or ham.
